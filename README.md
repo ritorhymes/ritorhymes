@@ -23,7 +23,7 @@ To learn about what I can offer, the depth and breadth of my multi-disciplinary 
 To see a technical example of what my work looks like integrating across domains, check out the dApp and multi-modal agentic rapbot showcase I built, **RitoSwap**, [review the documentation site first.](https://docs.ritoswap.com)
 <br /><br />
 
-I use an AI generated profile pic of myself because how else am I supposed to get a shot with robots in the background in a neo-Bladerunner-esq aesthetic? 🤔 
+I use an AI generated profile pic of myself because how else am I supposed to get a shot with robots in the background in a neo-Bladerunner-esque aesthetic? 🤔 
 
 I call myself a **"Powerhouse"** not for the sake of branding but to create a mental model to capture the quality, breadth and level of output I produce in projects... sometimes in scale, sometimes in depth of details.
 
@@ -64,11 +64,11 @@ I call myself a **"Powerhouse"** not for the sake of branding but to create a me
 ---
 
 ### Random fun facts
-If there's ever a **Gusiness Book of World Records** award for ***Most Hours Watching Mr. Robot***, trust me, I'm the winner. 🏆🏆🏆
+If there's ever a **Guinness Book of World Records** award for ***Most Hours Watching Mr. Robot***, trust me, I'm the winner. 🏆🏆🏆
 
 I created the first Hip Hop song NFT on the Dogecoin blockchain; it's a parody of Snoop Dogg's *What's My Name* and features an internet-sensation singer doing the chorus vocals.
 
-My first touchdown playing highschool football, I intercepted a short pass one-handed, ran it down field and frontflipped into the end-zone to score!
+My first touchdown playing high school football, I intercepted a short pass one-handed, ran it down field and frontflipped into the end-zone to score!
 
 
 ### Here are some philosophers I find fascinating
