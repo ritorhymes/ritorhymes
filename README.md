@@ -20,12 +20,14 @@ I'm Rito, I de-risk high ambiguity work by leading and integrating Product, Bran
 [![ritovision.com](https://img.shields.io/badge/ritovision.com-blue)](https://ritovision.com)
 
 To learn about what I can offer, the depth and breadth of my multi-disciplinary background or to contact me, you'll want to visit [that site](https://ritovision.com). <br /><br />
+To see a technical example of what my work looks like integrating across domains, check out the dApp and multi-modal agentic rapbot showcase I built, **RitoSwap**, [review the documentation site first.](https://docs.ritoswap.com)
+<br /><br />
 
 I use an AI generated profile pic of myself because how else am I supposed to get a shot with robots in the background in a neo-Bladerunner-esq aesthetic? 🤔 
 
 I call myself a **"Powerhouse"** not for the sake of branding but to create a mental model to capture the quality, breadth and level of output I produce in projects... sometimes in scale, sometimes in depth of details.
 
-Rito Rhymes® is my infotaining musical rap persona and a registered trademark, ritorhymes is my online handle and RapBotRito is my AI-version of Rito Rhymes.
+**Rito Rhymes®** is my infotaining musical rap persona, a registered trademark and the alias I have the most press coverage under; **ritorhymes** is my online handle and **RapBotRito** is my AI-version of Rito Rhymes.
 
 <img width="1000" height="581" alt="ritorhymes-trademark-blackbackground" src="https://github.com/user-attachments/assets/70b319c0-30f7-4373-b609-5d2077e680da" />
 
@@ -37,6 +39,7 @@ Rito Rhymes® is my infotaining musical rap persona and a registered trademark, 
   <img width="512" alt="RapBotRito" src="https://github.com/user-attachments/assets/768cea6c-7948-4c0e-9bbc-68f372c1829d" />
 </p>
 
+---
 
 ## I've designed, built and maintain numerous website/webapp products
 
@@ -60,7 +63,7 @@ Rito Rhymes® is my infotaining musical rap persona and a registered trademark, 
 
 ---
 
-***Random fun facts***
+### Random fun facts
 If there's ever a **Gusiness Book of World Records** award for ***Most Hours Watching Mr. Robot***, trust me, I'm the winner. 🏆🏆🏆
 
 I created the first Hip Hop song NFT on the Dogecoin blockchain; it's a parody of Snoop Dogg's *What's My Name* and features an internet-sensation singer doing the chorus vocals.
