@@ -6,18 +6,19 @@
 
 I'm Rito, I de-risk high ambiguity work by leading and integrating Product, Brand, UX & Engineering to deliver flagship experiences.
 
-![Chief Product Officer](https://img.shields.io/badge/Chief%20Product%20Officer-brightgreen)
-![Design & UX Leader](https://img.shields.io/badge/Design%20%26%20UX%20Leader-brightgreen)
-![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack%20Engineer-brightgreen)
+![Chief Product Officer](https://img.shields.io/badge/Chief%20Product%20Officer-04426C)
+![Design & UX Leader](https://img.shields.io/badge/Design%20%26%20UX%20Leader-04426C)
+![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack%20Engineer-04426C)
 
-![Fractional](https://img.shields.io/badge/Fractional-blue)
-![Multi-disciplinary](https://img.shields.io/badge/Multi--disciplinary-blue)
-![Powerhouse](https://img.shields.io/badge/Powerhouse-blue)
+![Fractional](https://img.shields.io/badge/Fractional-red)
+![Multi-disciplinary](https://img.shields.io/badge/Multi--disciplinary-red)
+![Powerhouse](https://img.shields.io/badge/Powerhouse-red)
+
 
 **RitoVision is my brand where I offer fractional leadership, consulting and software development** <br /><br />
 <img width="1100" height="396" alt="ritovision logo with blue orb background" src="https://github.com/user-attachments/assets/b3064a68-3976-4421-bb50-2b022f76d5e4" />
 
-[![ritovision.com](https://img.shields.io/badge/ritovision.com-blue)](https://ritovision.com)
+[![ritovision.com](https://img.shields.io/badge/ritovision.com-04426C)](https://ritovision.com)
 
 To learn about what I can offer, the depth and breadth of my multi-disciplinary background or to contact me, you'll want to visit [that site](https://ritovision.com). <br /><br />
 To see a technical example of what my work looks like integrating across domains, check out the dApp and multi-modal agentic rapbot showcase I built, **RitoSwap**, [review the documentation site first.](https://docs.ritoswap.com)
