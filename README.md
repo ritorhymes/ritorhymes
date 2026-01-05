@@ -21,7 +21,7 @@ I'm Rito, I de-risk high ambiguity work by leading and integrating Product, Bran
 [![ritovision.com](https://img.shields.io/badge/ritovision.com-04426C)](https://ritovision.com)
 
 To learn about what I can offer, the depth and breadth of my multi-disciplinary background or to contact me, you'll want to visit [that site](https://ritovision.com). <br /><br />
-To see a technical example of what my work looks like integrating across domains, check out the dApp and multi-modal agentic rapbot showcase I built, **RitoSwap**, [review the documentation site first.](https://docs.ritoswap.com)
+To see a technical example of what my work looks like integrating across domains, check out the musical dApp and multi-modal agentic AI game I built, **RitoSwap**, [review the documentation site first.](https://docs.ritoswap.com)
 <br /><br />
 
 I use an AI generated profile pic of myself because how else am I supposed to get a shot with robots in the background in a neo-Bladerunner-esque aesthetic? 🤔 
