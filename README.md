@@ -7,7 +7,7 @@
 I'm Rito, I de-risk high ambiguity work by leading and integrating across Product, Brand, UX & Engineering into flagship experiences.
 
 ![Chief Product Officer](https://img.shields.io/badge/Chief%20Product%20Officer-04426C)
-![UX Leader](https://img.shields.io/badge/Design%20%26%20UX%20Leader-04426C)
+![UX Leader](https://img.shields.io/badge/UX%20Leader-04426C)
 ![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack%20Engineer-04426C)
 
 ![Fractional](https://img.shields.io/badge/Fractional-red)
