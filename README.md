@@ -10,8 +10,8 @@ I'm Rito, I de-risk high ambiguity work by leading and integrating across Produc
 ![UX Leader](https://img.shields.io/badge/UX%20Leader-04426C)
 ![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack%20Engineer-04426C)
 
+![Cross-functional](https://img.shields.io/badge/Cross--functional-red)
 ![Fractional](https://img.shields.io/badge/Fractional-red)
-![Multi-disciplinary](https://img.shields.io/badge/Multi--disciplinary-red)
 ![Powerhouse](https://img.shields.io/badge/Powerhouse-red)
 
 
