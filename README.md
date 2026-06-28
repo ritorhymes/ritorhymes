@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="512" height="512" alt="rito in red suit in neon lit background with robots in a lab" src="https://github.com/user-attachments/assets/6e8676e6-dc49-4a40-ab24-942149c194d1" />
+  <img width="512" height="512" alt="rito in red suit in neon lit background with robots in a lab" src="https://github.com/user-attachments/assets/ac682bce-9863-4b67-b0fe-28550c2c5c6c" />
 </p>
 
 
