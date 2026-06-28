@@ -4,7 +4,9 @@
 </p>
 
 
-I'm Rito, I de-risk high-ambiguity, user-facing product systems by unifying Product, Brand, UX & Engineering into flagship experiences.
+I'm Rito, I make important outcomes more predictable by leveraging my depth across Product, Brand, UX & Engineering to address misalignments and ambiguities that are difficult to see or manage.
+
+I see between the seams.
 
 ![Chief Product Officer](https://img.shields.io/badge/Chief%20Product%20Officer-04426C)
 ![UX Leader](https://img.shields.io/badge/UX%20Leader-04426C)
